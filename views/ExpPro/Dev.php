@@ -22,7 +22,7 @@ include ("../shared/headerExpPro.php");
         <div class="col-md-12 topJob"></div>
     </div>
     <div class="row cssRowJob">
-        <div class="col-md-1 offset-1 anJob">2017 - 2017</div>
+        <div class="col-md-1 offset-1 anJob">02/2017 - 05/2017</div>
         <div class="col-md-10 textJob">
             <div class="row">
                 <div class="col-md-12">
@@ -46,7 +46,7 @@ include ("../shared/headerExpPro.php");
         <div class="col-md-4 offset-4 separJob"></div>
     </div>
     <div class="row cssRowJob">
-        <div class="col-md-1 offset-1 anJob">2017 - 2018</div>
+        <div class="col-md-1 offset-1 anJob">06/2017 - 05/2018</div>
         <div class="col-md-10 textJob">
             <div class="row">
                 <div class="col-md-12">
@@ -71,7 +71,7 @@ include ("../shared/headerExpPro.php");
         <div class="col-md-4 offset-4 separJob"></div>
     </div>
     <div class="row cssRowJob">
-        <div class="col-md-1 offset-1 anJob">2019 - en cours</div>
+        <div class="col-md-1 offset-1 anJob">02/2019 - 04/2019</div>
         <div class="col-md-10 textJob">
             <div class="row">
                 <div class="col-md-12">
@@ -86,6 +86,30 @@ include ("../shared/headerExpPro.php");
                         <div class="col-md-11">
                             Gestion d'un logiciel codé par un prestataire en vue de la modification du portail d'accès au site internet de
                             la société.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 offset-4 separJob"></div>
+    </div>
+    <div class="row cssRowJob">
+        <div class="col-md-1 offset-1 anJob">04/2019 - 10/2019</div>
+        <div class="col-md-10 textJob">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-1" align="center"><strong>Lieu</strong></div>
+                        <div class="col-md-11">Libertech - Laneuveville-devant-Nancy</div>
+                        <div class="col-md-1" align="center"><strong>Poste</strong></div>
+                        <div class="col-md-11">Développeur informatique</div>
+                        <div class="col-md-1" align="center"><strong>Technologies</strong></div>
+                        <div class="col-md-11">PHP - Vues.js - Phalcon - MongoDB</div>
+                        <div class="col-md-1" align="center"><strong>Description</strong></div>
+                        <div class="col-md-11">
+                            Gestion d'un logiciel de planning pour un client unique dans le domaine sanitaire et social.
                         </div>
                     </div>
                 </div>
