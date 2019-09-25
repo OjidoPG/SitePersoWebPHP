@@ -87,13 +87,13 @@ include("views/shared/headerIndex.php");
       <h2 class="mb-5">Diplômes</h2>
       <div class="row">
         <div class="col-md-4 offset-1 text-center regExp">
-          <a href="img/BacD.jpg" target="_blank"><img src="img/bacLogo.png" class="imgOver" /></a>
+          <a href="img/BacD.jpg" target="_blank"><img src="img/bacLogo.png" class="imgOver" alt="Baccalauréat"/></a>
           <div class="overlay">
             <span class="textCss">Baccalauréat série D</span>
           </div>
         </div>
         <div class="col-md-4 offset-1 text-center regExp">
-          <a href="img/CDI.jpg" target="_blank"><img src="img/devLogo.png" class="imgOver" /></a>
+          <a href="img/CDI.jpg" target="_blank"><img src="img/devLogo.png" class="imgOver" alt="AFPA"/></a>
           <div class="overlay">
             <span class="textCss">Développeur Informatique</span>
           </div>
@@ -101,13 +101,13 @@ include("views/shared/headerIndex.php");
       </div>
       <div class="row">
         <div class="col-md-4 offset-1 text-center regExp">
-          <a href="img/DErecto.jpg" target="_blank"><img src="img/infLogo.png" class="imgOver" /></a>
+          <a href="img/DErecto.jpg" target="_blank"><img src="img/infLogo.png" class="imgOver" alt="IDE"/></a>
           <div class="overlay">
             <span class="textCss">Diplôme d'état d'infirmier</span>
           </div>
         </div>
         <div class="col-md-4 offset-1 text-center regExp">
-          <a href="img/Secourisme.jpg" target="_blank"><img src="img/secourisme.png" class="imgOver" /></a>
+          <a href="img/Secourisme.jpg" target="_blank"><img src="img/secourisme.png" class="imgOver" alt="Secourisme"/></a>
           <div class="overlay">
             <span class="textCss">Secouriste</span>
           </div>
@@ -122,21 +122,21 @@ include("views/shared/headerIndex.php");
       <h2 class="mb-5">Expériences professionnelles</h2>
       <div class="row">
         <div class="col-md-4 text-center regExp">
-          <a href="views/ExpPro/Inf.php"><img src="img/infLogo.png" class="imgOver" /></a>
+          <a href="views/ExpPro/Inf.php"><img src="img/infLogo.png" class="imgOver" alt="Infirmier"/></a>
           <div class="overlay">
             <span class="textCss">Infirmier</span>
           </div>
         </div>
 
         <div class="col-md-4 text-center regExp">
-          <a href="views/ExpPro/Dev.php"><img src="img/devLogo.png" class="imgOver" /></a>
+          <a href="views/ExpPro/Dev.php"><img src="img/devLogo.png" class="imgOver" alt="Développement"/></a>
           <div class="overlay">
             <span class="textCss">Développeur</span>
           </div>
         </div>
 
         <div class="col-md-4 text-center regExp">
-          <a href="views/ExpPro/Divers.php"><img src="img/travailLogo.png" class="imgOver" /></a>
+          <a href="views/ExpPro/Divers.php"><img src="img/travailLogo.png" class="imgOver" alt="Divers"/></a>
           <div class="overlay">
             <span class="textCss">Divers</span>
           </div>
@@ -151,13 +151,13 @@ include("views/shared/headerIndex.php");
       <h2 class="mb-5">Réalisations</h2>
       <div class="row">
         <div class="col-md-5 offset-1 text-center regExp">
-          <img src="img/sitePerso.jpg" class="imgOver" data-toggle="modal" data-target="#PortfolioModal" />
+          <img src="img/sitePerso.jpg" class="imgOver" data-toggle="modal" data-target="#PortfolioModal" alt="Portfolio"/>
           <div class="overlay">
             <span class="textCss">Portfolio</span>
           </div>
         </div>
         <div class="col-md-5 offset-1 text-center regExp">
-          <img src="img/TP_POEC.jpg" class="imgOver" data-toggle="modal" data-target="#POECModal" />
+          <img src="img/TP_POEC.jpg" class="imgOver" data-toggle="modal" data-target="#POECModal" alt="POEC"/>
           <div class="overlay">
             <span class="textCss">TP POEC</span>
           </div>
@@ -165,13 +165,13 @@ include("views/shared/headerIndex.php");
       </div>
       <div class="row">
         <div class="col-md-5 offset-1 text-center regExp">
-          <img src="img/todolist.jpg" class="imgOver" data-toggle="modal" data-target="#ToDoListeModal" />
+          <img src="img/todolist.jpg" class="imgOver" data-toggle="modal" data-target="#ToDoListeModal" alt="ToDo List"/>
           <div class="overlay">
             <span class="textCss">ToDo Liste de courses</span>
           </div>
         </div>
         <div class="col-md-5 offset-1 text-center regExp">
-          <img src="img/bro.jpg" class="imgOver" data-toggle="modal" data-target="#BroModal" />
+          <img src="img/bro.jpg" class="imgOver" data-toggle="modal" data-target="#BroModal" alt="Brocante"/>
           <div class="overlay">
             <span class="textCss">Gestion d'une brocante</span>
           </div>
@@ -475,19 +475,19 @@ include("views/shared/headerIndex.php");
       <h2 class="mb-5">Certifications</h2>
       <div class="row">
         <div class="col-md-4 text-center regExp">
-          <a href="img/ocrCSharp.pdf" target="_blank"><img src="img/ocr.jpg" class="imgOver" /></a>
+          <a href="img/ocrCSharp.pdf" target="_blank"><img src="img/ocr.jpg" class="imgOver" alt="C#"/></a>
           <div class="overlay">
             <span class="textCss">Développer en C#</span>
           </div>
         </div>
         <div class="col-md-4 text-center regExp">
-          <a href="img/ocrPHPMySQL.pdf" target="_blank"><img src="img/ocr.jpg" class="imgOver" /></a>
+          <a href="img/ocrPHPMySQL.pdf" target="_blank"><img src="img/ocr.jpg" class="imgOver" alt="PHP - MySQL"/></a>
           <div class="overlay">
             <span class="textCss">PHP - MySQL</span>
           </div>
         </div>
         <div class="col-md-4 text-center regExp">
-          <a href="img/secNum.jpg" . target="_blank"><img src="img/secNumLogo.png" class="imgOver" /></a>
+          <a href="img/secNum.jpg" . target="_blank"><img src="img/secNumLogo.png" class="imgOver" alt="Sécurité"/></a>
           <div class="overlay">
             <span class="textCss">Sécurité numérique</span>
           </div>
