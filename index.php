@@ -54,8 +54,8 @@ include("views/shared/headerIndex.php");
         J’ai donc décidé de me réorienter pour me diriger vers une autre passion, l’informatique.<br>
         Après une période de réorientation, j’ai obtenu le titre de "Concepteur Développeur Informatique" à l’AFPA en juin 2017. J’ai travaillé un an comme développeur informatique C# ASP.Net MVC 5 (razor).<br>
         J’ai ensuite décidé de poursuivre ma montée en compétence en rejoignant le CESI pour une POEC RIL.<br>
-        Après une expérience professionnelle très interessante, j'ai rejoins le CESI pour la formation RIL<br>
-        Je recherche désormais une société, en contrat d'apprentissage, avec laquelle je pourrais monter en compétence et à laquelle je pourrais apporter mon énergie et ma volonté d'avancer.
+        Après une expérience professionnelle très interessante, j'ai rejoint le CESI pour la formation RIL<br>
+        Je recherche désormais une société, dans le cadre d'un contrat en alternance, avec laquelle je pourrais monter en compétence et à laquelle je pourrais apporter ma volonté d'avancer.
       </p>
       <div class="social-icons">
         <a href="https://www.linkedin.com/in/pascal-giraud-1a2513128" target="_blank">
