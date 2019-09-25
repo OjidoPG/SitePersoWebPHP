@@ -200,7 +200,7 @@ include("views/shared/headerIndex.php");
             <div class="col-md-2 offset-1"><strong>Langage</strong></div>
             <div class="col-md-7 offset-1">
               Deux versions : <br>
-              <i>Version 1</i> : PHP - HTML 5 - CSS 3<br>
+              <i>Version 1</i> : PHP - HTML 5 - CSS 3 - JQuery<br>
               <i>Version 2</i> : C# - ASP.Net MVC 5 (razor) - HTML 5 - CSS 3 - JQuery</div>
           </div>
           <div class="row">

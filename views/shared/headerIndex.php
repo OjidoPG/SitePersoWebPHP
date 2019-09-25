@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Administration</title>
+  <title>GIRAUD Pascal - Portfolio</title>
   <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="vendor/fontawesome-free/css/all.min.css">
   <link rel="stylesheet" type="text/css" href="css/regExp.css">
